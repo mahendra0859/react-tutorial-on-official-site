@@ -21,7 +21,7 @@ import './index.css';
 //       );
 //     }
 //   }
-//   Function Components
+//   Functional Components
 function Square(props) {
     return (<button className="square" onClick={props.onClick}>{props.value}</button>)
 }
@@ -150,7 +150,7 @@ function Square(props) {
       );
     }
   }
-// Function Component
+// Functional Component
   // function Game() {
   //   return (
   //       <div className="game">
